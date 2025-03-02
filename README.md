@@ -52,5 +52,5 @@ Conclusion
 Though not fully deployed due to AWS costs, TextNarrator serves as a proof-of-concept for cloud-based TTS applications. 
 This project enhances understanding of AWS services, their integration, and the feasibility of building AI-powered speech synthesis tools.
 
-![Echoscript Workflow]
-(https://github.com/Vii-oss/image/blob/main/cc.jpg?raw=true)
+![Echoscript
+Workflow](https://github.com/Vii-oss/image/blob/main/cc.jpg?raw=true)
